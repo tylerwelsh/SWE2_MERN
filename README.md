@@ -1,4 +1,4 @@
-# ProShop eCommerce Platform
+# ProShop eCommerce Platform (FOR SWE2 GROUP PROJECT)
 
 > eCommerce platform built with the MERN stack & Redux.
 
